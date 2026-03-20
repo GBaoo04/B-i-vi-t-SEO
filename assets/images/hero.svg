@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Velvet Tier - bánh mousse và trải nghiệm khách hàng">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff4eb"/>
+      <stop offset="100%" stop-color="#f6d7c0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="70" y="70" width="1060" height="490" rx="34" fill="#fffaf7" opacity="0.92"/>
+  <circle cx="900" cy="180" r="90" fill="#f0c3a0"/>
+  <circle cx="980" cy="240" r="52" fill="#d98c6a"/>
+  <rect x="120" y="360" width="190" height="110" rx="18" fill="#ffd9b8"/>
+  <rect x="170" y="300" width="90" height="80" rx="20" fill="#ffe7d0"/>
+  <rect x="160" y="278" width="110" height="28" rx="14" fill="#7a3e2f"/>
+  <text x="120" y="170" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#7a3e2f" font-weight="700">VELVET TIER DESERT &amp; MORE</text>
+  <text x="120" y="240" font-family="Arial, Helvetica, sans-serif" font-size="62" fill="#2f241f" font-weight="700">Trải nghiệm dùng thử bánh</text>
+  <text x="120" y="315" font-family="Arial, Helvetica, sans-serif" font-size="62" fill="#2f241f" font-weight="700">và hành trình giữ trọn chất lượng</text>
+  <text x="120" y="520" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#6f5b52">Bài viết chuẩn SEO về thương hiệu bánh mousse tại TP.HCM</text>
+</svg>

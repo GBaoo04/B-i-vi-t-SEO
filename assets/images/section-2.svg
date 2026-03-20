@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Nguồn trái cây tươi Việt Nam của Velvet Tier">
+  <rect width="960" height="540" fill="#fdf8f3"/>
+  <rect x="80" y="80" width="800" height="380" rx="28" fill="#fff" stroke="#ecd9cc"/>
+  <ellipse cx="250" cy="320" rx="140" ry="70" fill="#d9a273"/>
+  <circle cx="220" cy="220" r="50" fill="#89b04f"/>
+  <circle cx="280" cy="205" r="56" fill="#77a845"/>
+  <circle cx="340" cy="226" r="48" fill="#6f9d40"/>
+  <rect x="255" y="250" width="40" height="95" fill="#7a4d2f"/>
+  <circle cx="630" cy="250" r="62" fill="#ffb35c"/>
+  <circle cx="700" cy="270" r="48" fill="#ff7b54"/>
+  <circle cx="560" cy="280" r="44" fill="#9ad06a"/>
+  <text x="190" y="425" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#6f5b52">Khảo sát nông trại để chọn nguyên liệu trái cây tươi chất lượng</text>
+</svg>

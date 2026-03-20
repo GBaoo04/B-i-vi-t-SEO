@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Khách hàng trải nghiệm bánh tại Velvet Tier">
+  <rect width="960" height="540" fill="#fff6ef"/>
+  <rect x="70" y="70" width="820" height="400" rx="28" fill="#ffffff" stroke="#ecd9cc"/>
+  <circle cx="220" cy="210" r="52" fill="#f3c3a4"/>
+  <rect x="168" y="270" width="104" height="120" rx="22" fill="#d98c6a"/>
+  <circle cx="710" cy="210" r="52" fill="#f3c3a4"/>
+  <rect x="658" y="270" width="104" height="120" rx="22" fill="#7a3e2f"/>
+  <rect x="355" y="250" width="250" height="26" rx="13" fill="#7a3e2f"/>
+  <rect x="380" y="220" width="200" height="38" rx="19" fill="#ffe5ce"/>
+  <rect x="335" y="276" width="290" height="54" rx="18" fill="#ffd4b0"/>
+  <text x="260" y="440" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#6f5b52">Dùng thử sản phẩm để tăng niềm tin mua hàng</text>
+</svg>
